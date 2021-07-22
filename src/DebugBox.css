@@ -1,0 +1,9 @@
+.debug-box {
+  color: darkred;
+  border: 1px solid black;
+  padding: 12px;
+  border-radius: 8px;
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+}
